@@ -1,0 +1,81 @@
+body{
+	background-image: url(../img/wp2.jpg);
+	margin:0% 23% 0% 23%;
+	background-repeat: repeat-y;
+	background-color: black;
+	}
+article{
+	background-color: rgba(255,255,255,1);
+	border-style: ridge;
+	color: black;
+	text-align: justify;
+	font-size: 125%;
+	padding-right: 5%;
+	padding-left: 5%;
+	padding-bottom: 5%;
+	}
+img{
+	height: 50%;
+	width: 50%;
+	margin: auto;
+	display: block;
+	}
+h1{
+	color: white;
+	text-shadow: 2px 0 0 #000, -2px 0 0 #000, 0 2px 0 #000, 0 -2px 0 #000, 1px 1px #000, -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000;
+	font-size: 300%;
+}	
+iframe{
+	margin: auto;
+	display: block;
+}
+footer{
+	color: white;
+}	
+#titulo1{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+.titulo2{
+	float: left;
+}
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+.imperio{
+	list-style-image: url(../img/imperio_logo_.png);
+}
+.rebelion{
+	list-style-image: url(../img/alianza_logo.png);
+}
+.fed{
+	list-style-image: url(../img/fed_logo.png);
+}
+.jedi{
+	list-style-image: url(../img/jl.png);
+}
+#logo{
+	height: 70%;
+	width: 70%;
+}
+.actual{
+	float: left;
+	background-color: #c39f4b;
+}
+td{
+	border-color: black;
+	border-style: solid;
+	text-align: center;
+	border-width: 1px;
+}

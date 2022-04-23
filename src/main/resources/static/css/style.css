@@ -1,0 +1,66 @@
+body{
+	background-image: url(../img/wp2.jpg);
+	margin:0% 23% 0% 23%;
+	background-position: center;
+	background-repeat: repeat-y;
+	background-color: black;
+	}
+article{
+	background-color: rgba(255,255,255,1);
+	border-style: ridge;
+	color: black;
+	text-align: justify;
+	padding-right: 5%;
+	padding-left: 5%;
+	padding-bottom: 5%;
+	font-size: 125%;
+	}
+img{
+	height: 70%;
+	width: 70%;
+	margin: auto;
+	display: block;
+	}
+h1{
+	color: rgba(30,4,40,1);
+	text-shadow: 2px 0 0 #000, -2px 0 0 #000, 0 2px 0 #000, 0 -2px 0 #000, 1px 1px #000, -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000;
+	font-size: 300%;
+}	
+iframe{
+	margin: auto;
+	display: block;
+	border: 1;
+}	
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+h2{
+	font-style: italic;
+}
+footer{
+	color: white;
+}
+.actual{
+	float: left;
+	background-color: #c39f4b;
+}
